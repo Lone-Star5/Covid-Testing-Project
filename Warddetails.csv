@@ -1,0 +1,199 @@
+WardNo,WardName,ContainmentZone,Comorbidities,ProbableCases,CompletelyVerified
+1,Kempegowda Ward,No,69,267,No
+2,Chowdeswari Ward,No,13,73,No
+3,Atturu,No,64,241,No
+4,Yelahanka Satellite Town,No,53,260,No
+5,Jakkuru,No,56,213,No
+6,Thanisandra,No,3,82,No
+7,Byatarayanapura,No,39,48,No
+8,Kodigehalli,No,96,150,No
+9,Vidyaranyapura,No,4,108,No
+10,Dodda Bommasandra,No,94,290,No
+11,Kuvempu Nagar,No,55,274,No
+12,Shettihalli,No,44,268,No
+13,Mallasandra,No,24,256,No
+14,Bagalakunte,No,68,269,No
+15,T Dasarahalli,No,15,234,No
+16,Jalahalli,No,2,108,No
+17,J P Park,No,16,91,No
+19,SanJayanagar,No,23,294,No
+20,Ganga Nagar,No,88,261,No
+21,Hebbala,No,13,278,No
+22,Vishwanath Nagenahalli,No,95,95,No
+23,Nagavara,No,70,239,No
+24,HBR Layout,No,97,113,No
+25,Horamavu,No,78,193,No
+26,Ramamurthy Nagar,No,97,99,No
+27,Banasavadi,No,68,292,No
+28,Kammanahalli,No,3,174,No
+29,Kacharkanahalli,No,15,213,No
+30,Kadugondanahalli,No,87,236,No
+31,Kushal Nagar,No,15,51,No
+32,Kaval Bairasandra,No,55,264,No
+33,Manorayana Palya,No,31,227,No
+34,Gangenahalli,No,43,173,No
+35,Aramane Nagara,No,33,111,No
+36,Mattikere,No,67,84,No
+38,HMT Ward,No,91,223,No
+39,Chokkasandra,No,73,114,No
+40,Dodda Bidarakallu,No,27,179,No
+41,Peenya Industrial Area,No,6,91,No
+42,Lakshmi Devi Nagar,No,17,47,No
+43,Nandini Layout,No,33,53,No
+44,Marappana Palya,No,47,117,No
+45,Malleshwaram,No,45,240,No
+46,Jayachamarajendra Nagar,No,78,185,No
+47,Devara Jeevanahalli,No,55,279,No
+48,Muneshwara Nagar,No,84,169,No
+49,Lingarajapura,No,38,238,No
+50,Benniganahalli,No,53,76,No
+51,Vijnanapura,No,15,111,No
+52,KR Puram,No,6,185,No
+53,Basavanapura,No,21,283,No
+54,Hudi,No,52,209,No
+55,Devasandra,No,37,141,No
+56,A Narayanapura,No,70,196,No
+57,C.V. Raman Nagar,No,6,288,No
+58,New Tippa Sandra,No,86,174,No
+60,Sagayara Puram,No,11,212,No
+61,SK Garden,No,28,186,No
+63,Jaya Mahal,No,30,248,No
+64,Raj Mahal Guttahalli,No,8,230,No
+65,Kadu Malleshwar Ward,No,3,234,No
+66,Subramanya Nagar,No,16,57,No
+67,Nagapura,No,95,193,No
+68,Mahalakshmipuram,No,6,146,No
+69,Laggere,No,3,287,No
+70,Rajagopal Nagar,No,20,161,No
+71,Hegganahalli,No,38,143,No
+72,Herohalli,No,75,216,No
+73,Kottegepalya,No,75,201,No
+74,Shakthi Ganapathi Nagar,No,12,285,No
+75,Shankar Matt,No,48,142,No
+76,Gayithri Nagar,No,77,232,No
+77,Dattatreya Temple Ward,No,7,286,No
+79,Sarvagna Nagar,No,70,173,No
+80,Hoysala Nagar,No,98,155,No
+81,Vijnana Nagar,No,56,252,No
+82,Garudachar palya,No,23,280,No
+83,Kadugodi,No,18,122,No
+85,Dodda Nekkundi,No,16,291,No
+86,Marathahalli,No,93,216,No
+87,HAL Airport,No,3,227,No
+88,Jeevanbhima Nagar,No,24,184,No
+89,Jogupalya,No,33,39,No
+90,Halsoor,No,51,264,No
+91,Bharathi Nagar,No,3,246,No
+92,Shivaji Nagar,No,17,252,No
+94,Gandhi Nagar,No,58,213,No
+95,Subhash Nagar,No,89,223,No
+96,Okalipuram,No,44,288,No
+97,Dayananda Nagar,No,94,123,No
+98,Prakash Nagar,No,49,216,No
+99,Rajaji Nagar,No,91,292,No
+100,Basaveshwara Nagar,No,73,111,No
+101,Kamakshipalya,No,25,264,No
+102,Vrisahbhavathi Nagar,No,98,191,No
+103,Kaveripura,No,22,210,No
+104,Govindaraja Nagar,No,81,204,No
+105,Agrahara Dasarahalli,No,6,147,No
+106,Dr.Raj Kumar Ward,No,19,111,No
+107,Shiva Nagar,No,57,153,No
+108,Sri Rama Mandir Ward,No,88,207,No
+109,Chickpete,No,14,98,No
+110,Sampangiram Nagar,No,23,161,No
+111,Shantala Nagar,No,40,133,No
+112,Domlur,No,85,271,No
+113,Konena Agrahara,No,59,228,No
+114,Agaram,No,91,280,No
+115,Vannar Pet,No,8,71,No
+116,Nilasandra,No,76,147,No
+117,Shanthi Nagar,No,10,162,No
+119,Dharmaraya Swamy Temple,No,66,287,No
+120,Cottonpete,No,34,197,No
+121,Binni Pete,No,10,82,No
+122,Kempapura Agrahara,No,35,195,No
+123,ViJayanagar,No,13,100,No
+125,Marenahalli,No,68,149,No
+126,Maruthi Mandir Ward,No,63,257,No
+127,Mudalapalya,No,86,265,No
+128,Nagarabhavi,No,41,116,No
+129,Jnana Bharathi Ward,No,84,86,No
+130,Ullalu,No,73,245,No
+131,Nayandahalli,No,23,33,No
+132,Attiguppe,No,49,232,No
+137,Rayapuram,No,3,79,No
+140,Chamraja Pet,No,31,293,No
+141,Azad Nagar,No,33,60,No
+142,Sunkenahalli,No,87,290,No
+143,Vishveshwara Puram,No,72,154,No
+144,Siddapura,No,72,122,No
+145,Hombegowda Nagar,No,82,111,No
+146,Lakkasandra,No,68,225,No
+147,Adugodi,No,97,129,No
+148,Ejipura,No,23,155,No
+149,Varthur,No,75,137,No
+150,Bellanduru,No,1,236,No
+151,Koramangala,No,42,86,No
+152,Suddagunte Palya,No,29,57,No
+153,Jayanagar,No,83,227,No
+154,Basavanagudi,No,14,282,No
+155,Hanumanth Nagar,No,58,191,No
+156,Sri Nagar,No,26,80,No
+157,Gali Anjenaya Temple Ward,No,63,232,No
+159,Kengeri,No,86,152,No
+161,Hosakerehalli,No,4,250,No
+162,Giri Nagar,No,28,269,No
+163,Katriguppe,No,31,61,No
+164,Vidya Peeta Ward,No,81,165,No
+165,Ganesh Mandir Ward,No,84,176,No
+167,Yediyur,No,5,243,No
+168,Pattabhi Ram Nagar,No,89,213,No
+170,Jayanagar East,No,90,284,No
+171,Gurappana Palya,No,3,78,No
+172,Madivala,No,7,34,No
+173,Jakka Sandra,No,100,297,No
+174,HSR Layout,No,21,267,No
+175,Bommanahalli,No,92,156,No
+176,BTM Layout,No,13,186,No
+177,JP Nagar,No,84,175,No
+178,Sarakki,No,61,157,No
+179,Shakambari Narar,No,91,200,No
+180,Banashankari Temple Ward,No,5,77,No
+181,Kumara Swamy Layout,No,87,245,No
+182,Padmanabha Nagar,No,53,274,No
+183,Chikkala Sandra,No,57,147,No
+184,Uttarahalli,No,5,52,No
+185,Yelchenahalli,No,63,84,No
+186,Jaraganahalli,No,61,257,No
+187,Puttenahalli,No,24,165,No
+189,Honga Sandra,No,99,253,No
+190,Mangammana Palya,No,22,24,No
+191,Singa Sandra,No,57,129,No
+192,Begur,No,27,203,No
+193,Arakere,No,97,183,No
+194,Gottigere,No,10,157,No
+195,Konankunte,No,58,243,No
+196,Anjanapura,No,61,198,No
+197,Vasanthpura,No,53,81,No
+198,Hemmigepura,No,31,283,No
+18,Radhakrishna Temple Ward,Yes,0,0,No
+37,Yeshwanthpura,Yes,0,0,No
+59,Maruthi Seva Nagar,Yes,0,0,No
+62,Ramaswamy Palya,Yes,0,0,No
+78,Pulakeshi Nagar,Yes,0,0,No
+84,Hagadur,Yes,0,0,No
+93,Vasanth Nagar,Yes,0,0,No
+118,Sudham Nagar,Yes,0,0,No
+124,Hosahalli,Yes,0,0,No
+133,Hampi Nagar,Yes,0,0,No
+134,Bapuji Nagar,Yes,0,0,No
+135,Padarayanapura,Yes,0,0,No
+136,Jagajivanaram Nagar,Yes,0,0,No
+138,Chelavadi Palya,Yes,0,0,No
+139,KR Market,Yes,0,0,No
+158,Deepanjali Nagar,Yes,0,0,No
+160,Raja Rajeshawari Nagar,Yes,0,0,No
+166,Kari Sandra,Yes,0,0,No
+169,Byra Sandra,Yes,0,0,No
+188,Bilekhalli,Yes,0,0,No
